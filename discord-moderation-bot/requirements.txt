@@ -1,0 +1,5 @@
+discord.py
+detoxify
+torch
+asyncio
+python-dotenv
