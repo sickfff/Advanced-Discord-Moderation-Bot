@@ -32,7 +32,7 @@ Powered by:
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/discord-moderation-bot.git
+git clone https://github.com/groriz11/Advanced-Discord-Moderation-Bot
 cd discord-moderation-bot
 ```
 
