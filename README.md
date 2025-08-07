@@ -11,7 +11,7 @@ Welcome to the **Advanced Discord Moderation Bot** — a powerful AI-powered mod
 This bot uses state-of-the-art machine learning models to detect toxic messages in real time and helps moderators take action efficiently.
 
 Powered by:  
-- **Gabriel Roriz Silva** (Developer)  
+- **𐌔𐌉𐌂𐌊.dll** (Developer)  
 - [Detoxify](https://github.com/unitaryai/detoxify) (AI Toxicity Model)  
 
 ---
@@ -83,7 +83,7 @@ This project is licensed under the MIT License © 2025 Gabriel Roriz Silva.
 
 Questions, feedback, or collaboration?  
 
-[Github:](github.com/groriz11)
+[Github:](github.com/sickfff)
 
 ---
 
